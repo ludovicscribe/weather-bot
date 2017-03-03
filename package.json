@@ -9,8 +9,8 @@
   "author": "Ludovic Scribe",
   "license": "ISC",
   "dependencies": {
-    "botbuilder": "^3.2.3",
-    "request": "^2.75.0",
-    "restify": "^4.1.1"
+    "botbuilder": "^3.7.0",
+    "request": "^2.79.0",
+    "restify": "^4.3.0"
   }
 }
